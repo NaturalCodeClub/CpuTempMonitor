@@ -1,0 +1,9 @@
+name: NaturalServerCPUMonitor
+version: '${project.version}'
+main: org.wangxyper.NaturalServerCPUMonitor.Main
+api-version: 1.16
+authors: [ wangxyper ]
+description: A cpu monitor plugin for NaturalMCServer
+commands:
+  systeminfo:
+    description: A command can get the system info
